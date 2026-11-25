@@ -11,10 +11,15 @@ Our study investigates how undergraduate students at Addis Ababa University inte
 
 ## 2. Group Members 
 1,Ismael Ibrahim                                          UGR/2279/17
-2,Nahom Meki                                             UGR/9179/17            
+
+2,Nahom Meki                                             UGR/9179/17
+
 3,Tewodros Beshah                                     UGR/4345/17
+
 4,Fraol Shiferaw                                           UGR/9328/17
+
 5,Moa Sisay                                              UGR/5706/17
+
 ## 3. Repository Structure
 ```
 /
